@@ -16,4 +16,4 @@ venv/
 Thumbs.db
 
 # Ignore outputs (annotated videos/images)
-output/
+output/Yolo-Weights/
